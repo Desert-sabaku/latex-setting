@@ -1,0 +1,14 @@
+{
+    "cloudlatex.enabled": true,
+    "cloudlatex.projectId": YOUR_PROJECT_CODE_HERE,
+    "cloudlatex.outDir": "./.workspace",
+    "latex-workshop.latex.autoBuild.run": "never",
+    "latex-workshop.latex.outDir": "./.workspace",
+    "[latex]": {
+        "files.autoSave": "off",
+        "editor.formatOnSave": false,
+    },
+    "cSpell.words": [
+        "NAND"
+    ]
+}
